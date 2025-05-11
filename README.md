@@ -8,3 +8,6 @@ thought-provoking.
 
 I hope this "longer-than-usual" poem makes for an enjoyable and
 intellectually stimulating read and even a jewel for a find. Cheers!
+
+[Download the PDF version](https://github.com/sneurocode/conflict/blob/master/docs/_main.pdf)
+
