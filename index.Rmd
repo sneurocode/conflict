@@ -1,0 +1,27 @@
+---
+title: "Conflict"
+author: "Saviour Elikplim Animdife"
+date: "April 2025"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://sneurocode.github.io/conflict
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is my first canto or epic poem.
+  The HTML output format for this book is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: sneurocode/conflict
+---
+
+# Copyright {-}
+
+&copy; 2025 <span style="font-variant: small-caps;">SAVIOUR E. ANIMDIFE</span>
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
